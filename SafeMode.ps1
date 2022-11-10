@@ -7,8 +7,6 @@
 # of your equipment and backup of your data, and THE PROVIDER will not be liable for any damages you 
 # may suffer in connection with using, modifying, or distributing this SOFTWARE PRODUCT.
 #
-# Author: djdallmann
-# https://github.com/djdallmann/GamingPCSetup
 # 
 # An exploratory tool for analyzing the service and driver dependencies of safeboot/safe mode. 
 # The script will export running driver and service information in each state then compared. 
