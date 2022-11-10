@@ -13,8 +13,6 @@
 # 7. Use GM-GameMode-Off to restore previous state
 # 8. Customize, rinse and repeat
 #
-# Author: djdallmann
-# https://github.com/djdallmann/GamingPCSetup
 # Happy Scripting :D
 
 #####################
