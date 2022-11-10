@@ -4,8 +4,6 @@
 # You can use this function to micro-increment timer resolution 
 # See https://github.com/djdallmann/GamingPCSetup/blob/master/RESEARCH/FINDINGS/timermicroadjust.txt
 #
-# Author: djdallmann
-# https://github.com/djdallmann/GamingPCSetup
 # Happy Scripting :D
 
 $ntqtrmin = $null
