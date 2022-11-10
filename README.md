@@ -1,5 +1,5 @@
 # IBRPRIDE-TWEAKS
-# Gaming PC Setup for Windows 10 v2004
+# TWEAKS Gaming PC Setup for Windows 10
 A research and evidence based approach to optimizing your gaming PC, configuration and setup. Recommendations found in this guide are based on curated reputable [technical references](CONTENT/TECHNICAL%20REFERENCES/), and personal [research](CONTENT/RESEARCH/README.md).
 
  * Standardize your gaming PC builds
@@ -9,9 +9,9 @@ A research and evidence based approach to optimizing your gaming PC, configurati
 
 If you do use this or redistribute this in any way, please give due credit.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.me/ghgamingpcsetup)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://paypal.me/1brpride?country.x=SA&locale.x=ar_EG)
 
-## Steps
+## Steps "SOON"
 [1. BIOS Configuration](CONTENT/DOCS/BIOS/README.md)
 
 [2. Download and Install Windows](CONTENT/DOCS/INSTALLWIN/README.md)
@@ -41,3 +41,5 @@ If you do use this or redistribute this in any way, please give due credit.
 [14. Miscellaneous Scripts](CONTENT/SCRIPTS/README.md)
 
 [15. Research](CONTENT/RESEARCH/README.md)
+
+MY TikTok acconut "@ibrpride"
